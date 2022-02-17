@@ -1,4 +1,4 @@
-[Instaladores](./instaladores.md) [Expositores](./expositores) [Staff](./staff.md)
+[Instaladores](./instaladores.md) [Expositores](./expositores) [Staff](./staff.md) [Patrocinadores](./patrocinadores.md)
 
 ## Instaladores
 
