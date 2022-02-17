@@ -13,3 +13,8 @@
 - Por confirmar
 - Por confirmar
 - Por confirmar
+
+### Por confirmar
+#### Lugar: Aula C1, Horario: 11:00h
+- Guerra Pérez Karlos Abisai
+- Maldonado Ureste Antonio
