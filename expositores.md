@@ -4,11 +4,11 @@
 
 ### Creando tu sitio web personal en Github
 #### Lugar: Laboratorio C4, Hora: 11:00h
-- Ing. Gerardo Galileo Reyes Hernández
+- Ing. Gerardo Galileo Reyes Hernández <br><br>
 
 ### 2 Máquinas Virtuales "Gratis" en Oracle Cloud
 #### Lugar: Laboratorio C4, Horario: 13:00h
-- Por confirmar
+- Por confirmar<br><br>
 
 ### E2B: La solución multiboot para profesionales
 #### Lugar: Aula C1, Horario: 9:00h
