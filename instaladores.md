@@ -12,4 +12,4 @@
 #### Lugar: Aula C1, Horario: 11:00h
 - Por confirmar
 - Por confirmar
-- Por confirmar:
+- Por confirmar
