@@ -4,3 +4,9 @@
 
 ### Creando tu sitio web personal en Github
 - Ing. Gerardo Galileo Reyes Hernández
+
+### 2 Máquinas Virtuales "Gratis" en Oracle Cloud
+- Por confirmar
+
+### Otro evento mas
+- Por confirmar
