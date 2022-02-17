@@ -10,6 +10,6 @@
 #### Lugar: Laboratorio C4, Horario: 13:00h
 - Por confirmar
 
-### Otro evento mas
+### E2B: La solución multiboot para profesionales
 #### Lugar: Aula C1, Horario: 9:00h
 - Por confirmar
