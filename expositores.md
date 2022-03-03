@@ -13,6 +13,11 @@
 - Zúñiga Benítez José Manuel (Ing. Informática)<br><br>
 
 
+### Por Confirmar
+#### Lugar: Por Confirmar
+- Ing. Janeli Astorga<br><br>
+
+
 ### GNUPlot para estudiantes del TecNM
 #### Lugar: Por Confirmar
 - Alejandro (Ing. Civil)
