@@ -18,7 +18,7 @@
 - Ing. Janeli Astorga<br><br>
 
 
-### GNUPlot para estudiantes del TecNM
+### GNUPlot para estudiantes
 #### Lugar: Por Confirmar
 - Alejandro (Ing. Civil)
 - Josué Limón (Ing. Civil)<br><br>
