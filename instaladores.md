@@ -3,18 +3,20 @@
 ## Instaladores
 
 ### Distro para Gamers
-#### Lugar: Aula C1, Horario: 9:00h
+#### Lugar: Por Confirmar
 - López Pérez Brian Jovany
 - López Santiago José David
 - Martínez García Juan David<br><br>
 
+
 ### Distros ligeras (para revivir esas computadoras obsoletas)
-#### Lugar: Aula C1, Horario: 11:00h
+#### Lugar: Por Confirmar
 - Por confirmar
 - Por confirmar
-- Por confirmar
+- Por confirmar<br><br>
+
 
 ### Por confirmar
-#### Lugar: Aula C1, Horario: 11:00h
+#### Lugar: Por Confirmar
 - Guerra Pérez Karlos Abisai
-- Maldonado Ureste Antonio
+- Maldonado Ureste Antonio<br><br>
