@@ -13,9 +13,9 @@
 - Zúñiga Benítez José Manuel (Ing. Informática)<br><br>
 
 
-### Por Confirmar
+### Ionic: Framework Open Source para App Móviles Hibridas
 #### Lugar: Por Confirmar
-- Ing. Janeli Astorga<br><br>
+- M. en DTI. Janeli Astorga Villela<br><br>
 
 
 ### GNUPlot para estudiantes
