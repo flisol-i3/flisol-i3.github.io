@@ -20,3 +20,9 @@
 #### Lugar: Por Confirmar
 - Guerra Pérez Karlos Abisai
 - Maldonado Ureste Antonio<br><br>
+
+
+### Diseño con Software Libre para Corte en Vinil
+#### Lugar: Por Confirmar
+- Ángeles Domínguez Mildred
+- Martínez Rodríguez Vanessa<br><br>
