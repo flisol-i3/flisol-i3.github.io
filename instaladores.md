@@ -2,11 +2,13 @@
 
 ## Instaladores
 
-### Distro para Gamers
+### Distro para Retro Gamers
 #### Lugar: Por Confirmar
+- López García Gerardo Alberto
 - López Pérez Brian Jovany
 - López Santiago José David
-- Martínez García Juan David<br><br>
+- Martínez García Juan David
+- Molina Trejo Erik Jonathan<br><br>
 
 
 ### Distros ligeras (para revivir esas computadoras obsoletas)
