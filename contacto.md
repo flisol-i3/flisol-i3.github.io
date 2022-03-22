@@ -1,5 +1,5 @@
-<form action="https://drive.google.com/file/d/1McID6Cdaz6ePgbJpMnlwJfeuoaYL-N3Y/view?usp=sharing" method="post" target="_blank">
-  <label for="fname">Tus Nombres:</label><br>
+<form action="https://www.dropbox.com/s/c740lksbnpad69f/action_page.php?dl=0" method="post" target="_blank">
+  <label for="fname">Nombres:</label><br>
   <input type="text" id="fname" name="fname" value="John"><br>
   <label for="lname">Apellidos:</label><br>
   <input type="text" id="lname" name="lname" value="Doe"><br><br>
