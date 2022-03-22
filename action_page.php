@@ -1,8 +1,8 @@
 <html>
 <body>
 
-Welcome, <?php echo $_GET["fname"]; ?><br>
-Your Last Name is: <?php echo $_GET["lname"]; ?>
+Welcome, <?php echo $_POST["fname"]; ?><br>
+Your Last Name is: <?php echo $_POST["lname"]; ?>
 
 </body>
 </html> 
