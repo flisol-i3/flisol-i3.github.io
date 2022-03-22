@@ -1,4 +1,4 @@
-<form action="https://www.dropbox.com/s/c740lksbnpad69f/action_page.php?dl=0" method="post" target="_blank">
+<form action="https://www.dropbox.com/s/c740lksbnpad69f/action_page.php" method="post" target="_blank">
   <label for="fname">Nombres:</label><br>
   <input type="text" id="fname" name="fname" value="John"><br>
   <label for="lname">Apellidos:</label><br>
