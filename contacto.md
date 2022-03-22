@@ -1,4 +1,4 @@
-<form action="/action_page.php" method="post">
+<form action="/action_page.php" method="get">
   <label for="fname">Nombres:</label><br>
   <input type="text" id="fname" name="fname" value="John"><br>
   <label for="lname">Apellidos:</label><br>
