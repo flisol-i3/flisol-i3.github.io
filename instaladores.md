@@ -2,29 +2,12 @@
 
 ## Instaladores
 
-### Distro para Retro Gamers
-#### Lugar: Por Confirmar
-- López García Gerardo Alberto
-- López Pérez Brian Jovany
-- López Santiago José David
-- Martínez García Juan David
-- Molina Trejo Erik Jonathan<br><br>
+### Sitios Web con Github Pages
+#### Lugar: CC1
+#### Horario: 11:30h a 12:20h
+- Ing. G. Galileo Reyes (IT. Iztapalapa3)
 
-
-### Distros ligeras (para revivir esas computadoras obsoletas)
-#### Lugar: Por Confirmar
-- Por confirmar
-- Por confirmar
-- Por confirmar<br><br>
-
-
-### Por confirmar
-#### Lugar: Por Confirmar
-- Guerra Pérez Karlos Abisai
-- Maldonado Ureste Antonio<br><br>
-
-
-### Diseño con Software Libre para Corte en Vinil
-#### Lugar: Por Confirmar
-- Ángeles Domínguez Mildred
-- Martínez Rodríguez Vanessa<br><br>
+### 2 Máquinas Virtuales Gratis en Oracle Cloud
+#### Lugar: CC1
+#### Horario: 12:20h a 13:10h
+- Ing. G. Galileo Reyes (IT. Iztapalapa3)
