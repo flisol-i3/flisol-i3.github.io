@@ -5,7 +5,7 @@
 ### Sitios Web con Github Pages
 #### Lugar: CC1
 #### Horario: 11:30h a 12:20h
-- Ing. G. Galileo Reyes (IT. Iztapalapa3)
+- Ing. G. Galileo Reyes (IT. Iztapalapa3)<br><br>
 
 
 ### 2 Máquinas Virtuales "Gratis" en Oracle Cloud
