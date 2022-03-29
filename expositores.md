@@ -38,6 +38,11 @@
 #### Horario: 12:20h a 13:10h
 - M. Martha G. Morales (TESCHA)<br><br><br>
 
+### - TestDisk: Rescatando Información de DD.
+#### Lugar: HUB
+#### Horario: 12:20h a 13:10h
+- Lic. Carlos Silva (IT. Iztapalapa3)<br><br><br>
+
 ### - Ciencia de Datos con RStudio!
 #### Lugar: CC2
 #### Horario: 12:20h a 13:10h
